@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-webpage-opener",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron application that opens my github page.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -17,6 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^10.1.2"
+    "electron": "^10.1.2",
+    "electron-packager": "^15.1.0"
   }
 }
